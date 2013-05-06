@@ -1,0 +1,19 @@
+{
+  "name": "dotextensions",
+  "version": "0.0.1",
+  "description": "require.extensions that works properly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sgentle/dotextensions.git"
+  },
+  "keywords": [
+    "require",
+    "extensions"
+  ],
+  "author": "Sam Gentle <sam@samgentle.com>",
+  "license": "BSD"
+}
